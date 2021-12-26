@@ -1,0 +1,21 @@
+.EmojiItem {
+  margin: 15px;
+  width: 200px;
+  height: 150px;
+  background-color: #c9c9f3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px;
+  border-style: solid;
+  border-color: #0e0d0d30;
+  list-style-type: none;
+  border-radius: 10px;
+}
+
+.Buttonemojis {
+  width: 200px;
+  height: 150px;
+  background-color: transparent;
+  border: 0px;
+}

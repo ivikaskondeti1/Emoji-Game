@@ -1,0 +1,46 @@
+.resultCard {
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  width: 650px;
+  height: 500px;
+  background-color: #c9c9f3;
+  border-color: #0e0d0d30;
+  border: 2px;
+  border-style: solid;
+  border-radius: 10px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+.resultDetails {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.scoreDetails {
+  color: rgb(134, 134, 241);
+}
+button {
+  background-color: #ffce27;
+  padding: 5px;
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  border: 0px;
+}
+
+.mainresult {
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.REsultimg {
+  width: 300px;
+  height: 400px;
+}

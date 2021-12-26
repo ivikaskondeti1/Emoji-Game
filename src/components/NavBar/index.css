@@ -1,0 +1,30 @@
+.Navbar {
+  background-color: #bab9e6;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1% 10%;
+  align-items: center;
+  font-weight: bold;
+  color: white;
+}
+.NavbarHeading {
+  width: 20%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.Navbar2 {
+  padding-left: 20px;
+  background-color: #bab9e6;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 1% 10%;
+  align-items: center;
+  font-weight: bold;
+  color: white;
+}
+.heading {
+  font-size: 15px;
+}
